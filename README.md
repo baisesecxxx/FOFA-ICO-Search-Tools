@@ -120,13 +120,29 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) �
 
 ## ！！！最后再次强调 windows 中的导出是导出到当前目录下 || MAC OS 导出到下载目录下！！！
 
+
+
 ## ICON 资产关联查询功能使用教程
 
+* 点击ICON_HASH 计算
+
+![image](https://user-images.githubusercontent.com/49038429/121128304-c7879f80-c85d-11eb-88aa-30ccd34f64e6.png)
 
 
+* 输入URL ICON URL地址 举个栗子: http://xxx.com/xxx.ico 这里我就用FOFA的ico了 https://fofa.so/favicon.ico
 
+![image](https://user-images.githubusercontent.com/49038429/121128692-63191000-c85e-11eb-9ffc-8f089e933ef8.png)
 
+* 点击 转hash
 
+![image](https://user-images.githubusercontent.com/49038429/121128731-70ce9580-c85e-11eb-83e8-da5eda73ce1c.png)
+
+* 复制结果
+
+![image](https://user-images.githubusercontent.com/49038429/121128768-7cba5780-c85e-11eb-8fc8-485f3d98bdb8.png)
+
+*粘贴到 搜索语句 中 并加入fofa_token 点击开始就能获取到数据
+![image](https://user-images.githubusercontent.com/49038429/121128980-d4f15980-c85e-11eb-9408-435c03fe266e.png)
 
 
 
