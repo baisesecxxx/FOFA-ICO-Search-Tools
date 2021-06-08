@@ -61,19 +61,27 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) �
 ## Mac OS 安装 与 使用
 * 下载完成之后在下载目录里会有一个FOFA ICO 搜索工具.dmg这样的文件
 
+
 ![图片 0](https://user-images.githubusercontent.com/49038429/121126208-60b4b700-c85a-11eb-975b-68f34d94c105.png)
 
 
 * 双击打开，把工具拖动到Applications 图标上
 
+
 ![图片 1](https://user-images.githubusercontent.com/49038429/121126433-b9844f80-c85a-11eb-8ccb-3530242ef1fe.png)
+
 
 * 然后我们在启动台就能看到我们的工具已经安装好了
 
+
 ![图片 2](https://user-images.githubusercontent.com/49038429/121126519-d882e180-c85a-11eb-9941-6f8eaaf5bbf8.png)
 
+
 * 单击点开工具，打开后我们可以看到工具的页面是这样的
+
+
 ![图片 3](https://user-images.githubusercontent.com/49038429/121126845-6c54ad80-c85b-11eb-9a72-b48ccbece015.png)
+
 
 ![图片 4](https://user-images.githubusercontent.com/49038429/121126967-9f973c80-c85b-11eb-87c0-bf547f314ac3.png)
 
