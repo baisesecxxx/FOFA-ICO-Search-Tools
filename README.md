@@ -147,7 +147,7 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) �
 
 ![image](https://user-images.githubusercontent.com/49038429/121128768-7cba5780-c85e-11eb-8fc8-485f3d98bdb8.png)
 
-*粘贴到 搜索语句 中 并加入fofa_token 点击开始就能获取到数据
+* 粘贴到 搜索语句 中 并加入fofa_token 点击开始就能获取到数据
 ![image](https://user-images.githubusercontent.com/49038429/121128980-d4f15980-c85e-11eb-9408-435c03fe266e.png)
 
 
