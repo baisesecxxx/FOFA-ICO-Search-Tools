@@ -59,7 +59,7 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) �
 
 
 ## Mac OS 安装 与 使用
-![](https://imgtu.com/i/2Dl1qP)
+![image](https://imgtu.com/i/2Dl1qP)
 
 
 
