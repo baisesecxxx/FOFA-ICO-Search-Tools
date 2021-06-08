@@ -7,9 +7,10 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出)
 
 
 
-### 语法搜索
+### 语法搜索(摘自FOFA官网:https://fofa.so/-->查询语法处)
 
-
-
+|例句(点击可去搜索)|用途说明|注
+|-|-|-|
+|title="beijing"|从标题中搜索“北京”|-|
 
 By:08sec&zero-0sec 阳光宅男 && zero-0sec 凯文大叔
