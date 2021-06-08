@@ -124,7 +124,7 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) �
 打开xls就可以自己筛选想要的数据
 ![image](https://user-images.githubusercontent.com/49038429/121128022-4a5c2a80-c85d-11eb-9176-6254fe402689.png)
 
-## ！！！最后再次强调 windows 中的导出是导出到当前目录下 || MAC OS 导出到下载目录下！！！
+## ！！！再次强调 windows 中的导出是导出到当前目录下 || MAC OS 导出到下载目录下！！！
 
 
 
