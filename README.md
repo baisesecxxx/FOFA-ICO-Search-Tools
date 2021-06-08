@@ -75,6 +75,7 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) �
 * 单击点开工具，打开后我们可以看到工具的页面是这样的
 ![图片 3](https://user-images.githubusercontent.com/49038429/121126845-6c54ad80-c85b-11eb-9a72-b48ccbece015.png)
 
+![图片 4](https://user-images.githubusercontent.com/49038429/121126967-9f973c80-c85b-11eb-87c0-bf547f314ac3.png)
 
 
 
