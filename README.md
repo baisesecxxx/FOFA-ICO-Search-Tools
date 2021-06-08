@@ -1,5 +1,9 @@
 # FOFA ICO 资产关联搜索工具
 
+***mac版 md5 203afa5e0ac87b6fd4fca0c59eb9bef3***
+
+***win版 md5 2c4505b0a0ec85926cbcd8d9f5011502***
+
 ## 简介
 FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) 本工具分别有windows 和 mac os 两个版本
 
@@ -7,9 +11,7 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) �
 
 ***温馨提示: Windows 版本GUI tk写的虽丑但麻雀虽小五脏俱全 Q A Q！！***
 
-***mac版 md5: 203afa5e0ac87b6fd4fca0c59eb9bef3 ***
 
-***win版 md5: 2c4505b0a0ec85926cbcd8d9f5011502 ***
 
 ### 语法搜索(摘自FOFA官网:https://fofa.so/ --> 查询语法 处)
 
