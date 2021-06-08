@@ -6,8 +6,10 @@ FOFA ICO 搜索工具 (支持语法搜索、ICON_Hash 搜索 和 一键导出) �
 **注意事项:本工具仅使用于高级会员，普通会员只能查询100条，高级会员能查询1W条(如果有什么更好的想法欢迎来向我们提出，我们将会一直更新做下去 ^ ~ ^)**
 
 ***温馨提示: Windows 版本GUI tk写的虽丑但麻雀虽小五脏俱全 Q A Q！！***
-*** mac版 md5: 203afa5e0ac87b6fd4fca0c59eb9bef3 ***
-*** win版 md5: 2c4505b0a0ec85926cbcd8d9f5011502 ***
+
+***mac版 md5: 203afa5e0ac87b6fd4fca0c59eb9bef3 ***
+
+***win版 md5: 2c4505b0a0ec85926cbcd8d9f5011502 ***
 
 ### 语法搜索(摘自FOFA官网:https://fofa.so/ --> 查询语法 处)
 
